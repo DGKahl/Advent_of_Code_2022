@@ -1,0 +1,15 @@
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\bin\Debug\net7.0\day2.exe
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\bin\Debug\net7.0\day2.deps.json
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\bin\Debug\net7.0\day2.runtimeconfig.json
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\bin\Debug\net7.0\day2.dll
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\bin\Debug\net7.0\day2.pdb
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\day2.csproj.AssemblyReference.cache
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\day2.AssemblyInfoInputs.cache
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\day2.AssemblyInfo.cs
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\day2.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\day2.dll
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\refint\day2.dll
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\day2.pdb
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\day2.genruntimeconfig.cache
+C:\Users\Mr. Gutsy\Documents\vs_code_projects\Advent_of_Code_2022\day2\obj\Debug\net7.0\ref\day2.dll

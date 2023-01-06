@@ -1,0 +1,15 @@
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\bin\Debug\net7.0\day3.exe
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\bin\Debug\net7.0\day3.deps.json
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\bin\Debug\net7.0\day3.runtimeconfig.json
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\bin\Debug\net7.0\day3.dll
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\bin\Debug\net7.0\day3.pdb
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\day3.csproj.AssemblyReference.cache
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\day3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\day3.AssemblyInfoInputs.cache
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\day3.AssemblyInfo.cs
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\day3.csproj.CoreCompileInputs.cache
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\day3.dll
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\refint\day3.dll
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\day3.pdb
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\day3.genruntimeconfig.cache
+D:\BACKUP\00 Leben\98 Hobby\01 Coding und Technik\vs_code_projects\Advent_of_Code_2022\day3\obj\Debug\net7.0\ref\day3.dll
